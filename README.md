@@ -1,5 +1,7 @@
 # nifi-poc
-nifi proof of concept
+- Flow Based Programming
+- Focused on Data Movement, Routing and Transformations
+- Data Processing Framework - mainly Stream Processing
 
 # DataFlow Manager
 - reduces time to deployment
